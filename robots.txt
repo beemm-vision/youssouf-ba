@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://beemm-vision.github.io/youssouf-ba/sitemap.xml
